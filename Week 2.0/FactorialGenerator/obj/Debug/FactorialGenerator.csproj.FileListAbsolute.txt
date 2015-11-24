@@ -1,0 +1,5 @@
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\FactorialGenerator\bin\Debug\FactorialGenerator.exe.config
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\FactorialGenerator\bin\Debug\FactorialGenerator.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\FactorialGenerator\bin\Debug\FactorialGenerator.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\FactorialGenerator\obj\Debug\FactorialGenerator.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\FactorialGenerator\obj\Debug\FactorialGenerator.pdb

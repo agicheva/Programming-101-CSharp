@@ -1,0 +1,6 @@
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\InflateARectangle\bin\Debug\InflateARectangle.exe.config
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\InflateARectangle\bin\Debug\InflateARectangle.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\InflateARectangle\bin\Debug\InflateARectangle.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\InflateARectangle\obj\Debug\InflateARectangle.csprojResolveAssemblyReference.cache
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\InflateARectangle\obj\Debug\InflateARectangle.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\InflateARectangle\obj\Debug\InflateARectangle.pdb

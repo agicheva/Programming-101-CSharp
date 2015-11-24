@@ -1,0 +1,6 @@
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\SearchInAList\bin\Debug\SearchInAList.exe.config
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\SearchInAList\obj\Debug\SearchInAList.csprojResolveAssemblyReference.cache
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\SearchInAList\bin\Debug\SearchInAList.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\SearchInAList\bin\Debug\SearchInAList.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\SearchInAList\obj\Debug\SearchInAList.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\SearchInAList\obj\Debug\SearchInAList.pdb

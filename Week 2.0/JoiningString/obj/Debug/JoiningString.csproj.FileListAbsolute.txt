@@ -1,0 +1,5 @@
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\JoiningString\bin\Debug\JoiningString.exe.config
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\JoiningString\bin\Debug\JoiningString.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\JoiningString\bin\Debug\JoiningString.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\JoiningString\obj\Debug\JoiningString.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\JoiningString\obj\Debug\JoiningString.pdb

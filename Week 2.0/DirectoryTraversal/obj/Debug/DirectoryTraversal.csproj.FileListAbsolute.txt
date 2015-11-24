@@ -1,0 +1,6 @@
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\DirectoryTraversal\bin\Debug\DirectoryTraversal.exe.config
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\DirectoryTraversal\bin\Debug\DirectoryTraversal.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\DirectoryTraversal\bin\Debug\DirectoryTraversal.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\DirectoryTraversal\obj\Debug\DirectoryTraversal.csprojResolveAssemblyReference.cache
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\DirectoryTraversal\obj\Debug\DirectoryTraversal.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\DirectoryTraversal\obj\Debug\DirectoryTraversal.pdb

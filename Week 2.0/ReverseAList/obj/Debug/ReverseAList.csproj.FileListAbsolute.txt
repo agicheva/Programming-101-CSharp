@@ -1,0 +1,6 @@
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\ReverseAList\bin\Debug\ReverseAList.exe.config
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\ReverseAList\bin\Debug\ReverseAList.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\ReverseAList\bin\Debug\ReverseAList.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\ReverseAList\obj\Debug\ReverseAList.csprojResolveAssemblyReference.cache
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\ReverseAList\obj\Debug\ReverseAList.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.0\ReverseAList\obj\Debug\ReverseAList.pdb
