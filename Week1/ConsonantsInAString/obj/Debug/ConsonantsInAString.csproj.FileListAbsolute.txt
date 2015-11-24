@@ -1,0 +1,6 @@
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\ConsonantsInAString\bin\Debug\ConsonantsInAString.exe.config
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\ConsonantsInAString\bin\Debug\ConsonantsInAString.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\ConsonantsInAString\bin\Debug\ConsonantsInAString.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\ConsonantsInAString\obj\Debug\ConsonantsInAString.csprojResolveAssemblyReference.cache
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\ConsonantsInAString\obj\Debug\ConsonantsInAString.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\ConsonantsInAString\obj\Debug\ConsonantsInAString.pdb

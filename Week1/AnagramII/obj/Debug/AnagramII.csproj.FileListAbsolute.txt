@@ -1,0 +1,6 @@
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\AnagramII\bin\Debug\AnagramII.exe.config
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\AnagramII\bin\Debug\AnagramII.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\AnagramII\bin\Debug\AnagramII.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\AnagramII\obj\Debug\AnagramII.csprojResolveAssemblyReference.cache
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\AnagramII\obj\Debug\AnagramII.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\AnagramII\obj\Debug\AnagramII.pdb

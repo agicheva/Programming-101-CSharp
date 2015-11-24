@@ -1,0 +1,5 @@
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\IncreasingAndDecreasingSequances\bin\Debug\IncreasingAndDecreasingSequances.exe.config
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\IncreasingAndDecreasingSequances\bin\Debug\IncreasingAndDecreasingSequances.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\IncreasingAndDecreasingSequances\bin\Debug\IncreasingAndDecreasingSequances.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\IncreasingAndDecreasingSequances\obj\Debug\IncreasingAndDecreasingSequances.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\IncreasingAndDecreasingSequances\obj\Debug\IncreasingAndDecreasingSequances.pdb

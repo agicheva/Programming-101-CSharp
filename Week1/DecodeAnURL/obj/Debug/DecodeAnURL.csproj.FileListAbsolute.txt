@@ -1,0 +1,6 @@
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\DecodeAnURL\bin\Debug\DecodeAnURL.exe.config
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\DecodeAnURL\obj\Debug\DecodeAnURL.csprojResolveAssemblyReference.cache
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\DecodeAnURL\bin\Debug\DecodeAnURL.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\DecodeAnURL\bin\Debug\DecodeAnURL.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\DecodeAnURL\obj\Debug\DecodeAnURL.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\DecodeAnURL\obj\Debug\DecodeAnURL.pdb

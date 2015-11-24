@@ -1,0 +1,6 @@
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\HelloWorld\obj\Debug\HelloWorld.pdb

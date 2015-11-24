@@ -1,0 +1,5 @@
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\VowelsInAString\bin\Debug\VowelsInAString.exe.config
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\VowelsInAString\bin\Debug\VowelsInAString.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\VowelsInAString\bin\Debug\VowelsInAString.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\VowelsInAString\obj\Debug\VowelsInAString.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\VowelsInAString\obj\Debug\VowelsInAString.pdb

@@ -1,0 +1,6 @@
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\InterpolateImagine\bin\Debug\InterpolateImagine.exe.config
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\InterpolateImagine\bin\Debug\InterpolateImagine.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\InterpolateImagine\bin\Debug\InterpolateImagine.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\InterpolateImagine\obj\Debug\InterpolateImagine.csprojResolveAssemblyReference.cache
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\InterpolateImagine\obj\Debug\InterpolateImagine.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\InterpolateImagine\obj\Debug\InterpolateImagine.pdb

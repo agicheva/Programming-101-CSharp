@@ -1,0 +1,6 @@
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\GrayscaleImagine\bin\Debug\GrayscaleImagine.exe.config
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\GrayscaleImagine\bin\Debug\GrayscaleImagine.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\GrayscaleImagine\bin\Debug\GrayscaleImagine.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\GrayscaleImagine\obj\Debug\GrayscaleImagine.csprojResolveAssemblyReference.cache
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\GrayscaleImagine\obj\Debug\GrayscaleImagine.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\GrayscaleImagine\obj\Debug\GrayscaleImagine.pdb

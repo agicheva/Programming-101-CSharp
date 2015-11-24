@@ -1,0 +1,6 @@
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\MatrixBombing\bin\Debug\MatrixBombing.exe.config
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\MatrixBombing\bin\Debug\MatrixBombing.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\MatrixBombing\bin\Debug\MatrixBombing.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\MatrixBombing\obj\Debug\MatrixBombing.csprojResolveAssemblyReference.cache
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\MatrixBombing\obj\Debug\MatrixBombing.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\MatrixBombing\obj\Debug\MatrixBombing.pdb
