@@ -4,3 +4,6 @@ C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\FridayThe13th\bin\Debug\Frida
 C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\FridayThe13th\obj\Debug\FridayThe13th.csprojResolveAssemblyReference.cache
 C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\FridayThe13th\obj\Debug\FridayThe13th.exe
 C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\FridayThe13th\obj\Debug\FridayThe13th.pdb
+C:\Users\IVAN\Desktop\Programming-101-CSharp\Week 2.1\FridayThe13th\bin\Debug\FridayThe13th.exe.config
+C:\Users\IVAN\Desktop\Programming-101-CSharp\Week 2.1\FridayThe13th\obj\Debug\FridayThe13th.exe
+C:\Users\IVAN\Desktop\Programming-101-CSharp\Week 2.1\FridayThe13th\obj\Debug\FridayThe13th.pdb
