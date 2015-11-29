@@ -1,0 +1,6 @@
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\PolygonArea\bin\Debug\PolygonArea.exe.config
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\PolygonArea\bin\Debug\PolygonArea.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\PolygonArea\bin\Debug\PolygonArea.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\PolygonArea\obj\Debug\PolygonArea.csprojResolveAssemblyReference.cache
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\PolygonArea\obj\Debug\PolygonArea.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\PolygonArea\obj\Debug\PolygonArea.pdb

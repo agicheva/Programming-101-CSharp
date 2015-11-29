@@ -1,0 +1,6 @@
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\DateSum\bin\Debug\DateSum.exe.config
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\DateSum\bin\Debug\DateSum.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\DateSum\bin\Debug\DateSum.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\DateSum\obj\Debug\DateSum.csprojResolveAssemblyReference.cache
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\DateSum\obj\Debug\DateSum.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\DateSum\obj\Debug\DateSum.pdb

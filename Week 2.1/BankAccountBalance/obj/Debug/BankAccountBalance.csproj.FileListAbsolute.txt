@@ -1,0 +1,6 @@
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\BankAccountBalance\bin\Debug\BankAccountBalance.exe.config
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\BankAccountBalance\bin\Debug\BankAccountBalance.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\BankAccountBalance\bin\Debug\BankAccountBalance.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\BankAccountBalance\obj\Debug\BankAccountBalance.csprojResolveAssemblyReference.cache
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\BankAccountBalance\obj\Debug\BankAccountBalance.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\BankAccountBalance\obj\Debug\BankAccountBalance.pdb

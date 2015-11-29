@@ -1,0 +1,6 @@
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\SpecialDate\bin\Debug\SpecialDate.exe.config
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\SpecialDate\bin\Debug\SpecialDate.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\SpecialDate\bin\Debug\SpecialDate.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\SpecialDate\obj\Debug\SpecialDate.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\SpecialDate\obj\Debug\SpecialDate.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\SpecialDate\obj\Debug\SpecialDate.csprojResolveAssemblyReference.cache

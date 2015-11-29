@@ -1,0 +1,6 @@
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\ClockAngel\bin\Debug\ClockAngel.exe.config
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\ClockAngel\obj\Debug\ClockAngel.csprojResolveAssemblyReference.cache
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\ClockAngel\bin\Debug\ClockAngel.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\ClockAngel\bin\Debug\ClockAngel.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\ClockAngel\obj\Debug\ClockAngel.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\ClockAngel\obj\Debug\ClockAngel.pdb

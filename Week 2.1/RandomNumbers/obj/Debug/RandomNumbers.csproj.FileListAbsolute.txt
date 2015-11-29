@@ -1,0 +1,6 @@
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\RandomNumbers\bin\Debug\RandomNumbers.exe.config
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\RandomNumbers\bin\Debug\RandomNumbers.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\RandomNumbers\bin\Debug\RandomNumbers.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\RandomNumbers\obj\Debug\RandomNumbers.csprojResolveAssemblyReference.cache
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\RandomNumbers\obj\Debug\RandomNumbers.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\RandomNumbers\obj\Debug\RandomNumbers.pdb

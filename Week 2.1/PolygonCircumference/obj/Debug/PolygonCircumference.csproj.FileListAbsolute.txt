@@ -1,0 +1,6 @@
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\PolygonCircumference\bin\Debug\PolygonCircumference.exe.config
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\PolygonCircumference\bin\Debug\PolygonCircumference.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\PolygonCircumference\bin\Debug\PolygonCircumference.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\PolygonCircumference\obj\Debug\PolygonCircumference.csprojResolveAssemblyReference.cache
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\PolygonCircumference\obj\Debug\PolygonCircumference.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\PolygonCircumference\obj\Debug\PolygonCircumference.pdb
