@@ -4,3 +4,6 @@ C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\AppointmentsIntersection\bin\
 C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\AppointmentsIntersection\obj\Debug\AppointmentsIntersection.csprojResolveAssemblyReference.cache
 C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\AppointmentsIntersection\obj\Debug\AppointmentsIntersection.exe
 C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 2.1\AppointmentsIntersection\obj\Debug\AppointmentsIntersection.pdb
+C:\Users\IVAN\Desktop\Programming-101-CSharp\Week 2.1\AppointmentsIntersection\bin\Debug\AppointmentsIntersection.exe.config
+C:\Users\IVAN\Desktop\Programming-101-CSharp\Week 2.1\AppointmentsIntersection\obj\Debug\AppointmentsIntersection.exe
+C:\Users\IVAN\Desktop\Programming-101-CSharp\Week 2.1\AppointmentsIntersection\obj\Debug\AppointmentsIntersection.pdb
