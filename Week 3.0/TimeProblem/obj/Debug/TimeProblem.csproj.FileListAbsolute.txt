@@ -1,0 +1,6 @@
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 3.0\TimeProblem\bin\Debug\TimeProblem.exe.config
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 3.0\TimeProblem\bin\Debug\TimeProblem.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 3.0\TimeProblem\bin\Debug\TimeProblem.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 3.0\TimeProblem\obj\Debug\TimeProblem.csprojResolveAssemblyReference.cache
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 3.0\TimeProblem\obj\Debug\TimeProblem.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 3.0\TimeProblem\obj\Debug\TimeProblem.pdb

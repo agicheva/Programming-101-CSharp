@@ -1,0 +1,6 @@
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 3.0\PairProblem\bin\Debug\PairProblem.exe.config
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 3.0\PairProblem\bin\Debug\PairProblem.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 3.0\PairProblem\bin\Debug\PairProblem.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 3.0\PairProblem\obj\Debug\PairProblem.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 3.0\PairProblem\obj\Debug\PairProblem.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 3.0\PairProblem\obj\Debug\PairProblem.csprojResolveAssemblyReference.cache

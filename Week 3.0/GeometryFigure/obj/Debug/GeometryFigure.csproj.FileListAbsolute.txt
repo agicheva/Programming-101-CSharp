@@ -1,0 +1,6 @@
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 3.0\GeometryFigure\bin\Debug\GeometryFigure.exe.config
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 3.0\GeometryFigure\bin\Debug\GeometryFigure.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 3.0\GeometryFigure\bin\Debug\GeometryFigure.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 3.0\GeometryFigure\obj\Debug\GeometryFigure.exe
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 3.0\GeometryFigure\obj\Debug\GeometryFigure.pdb
+C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 3.0\GeometryFigure\obj\Debug\GeometryFigure.csprojResolveAssemblyReference.cache
