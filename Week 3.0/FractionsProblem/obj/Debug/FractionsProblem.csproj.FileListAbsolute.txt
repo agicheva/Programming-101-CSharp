@@ -4,3 +4,6 @@ C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 3.0\FractionsProblem\bin\Debug\Fr
 C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 3.0\FractionsProblem\obj\Debug\FractionsProblem.csprojResolveAssemblyReference.cache
 C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 3.0\FractionsProblem\obj\Debug\FractionsProblem.exe
 C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week 3.0\FractionsProblem\obj\Debug\FractionsProblem.pdb
+C:\Users\IVAN\Desktop\Programming-101-CSharp\Week 3.0\FractionsProblem\bin\Debug\FractionsProblem.exe.config
+C:\Users\IVAN\Desktop\Programming-101-CSharp\Week 3.0\FractionsProblem\obj\Debug\FractionsProblem.exe
+C:\Users\IVAN\Desktop\Programming-101-CSharp\Week 3.0\FractionsProblem\obj\Debug\FractionsProblem.pdb

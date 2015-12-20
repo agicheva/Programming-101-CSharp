@@ -46,7 +46,7 @@ namespace FractionsProblem
         {
             if (denominator == 0)
             {
-                throw new ArgumentException("TUP SI");
+                throw new ArgumentException("Denominator cannot be zero.");
             }
 
             this.numerator = numerator;
