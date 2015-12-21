@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace LinkedList
 {
-    public class LinkedList<T> : IEnumerable<T>
+    public class LinkedList<T> : IEnumerable<T> 
         where T : class
     {
         class Node

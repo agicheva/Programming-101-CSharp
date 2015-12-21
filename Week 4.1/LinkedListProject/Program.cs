@@ -20,7 +20,7 @@ namespace LinkedListProject
 
             list.InsertAfter("g", "a");
             
-            list.InsertAt(10, "z"); 
+            //list.InsertAt(10, "z"); 
             list.InsertAt(2, "z");
             list.Remove("z");
             list[1] = "m";
