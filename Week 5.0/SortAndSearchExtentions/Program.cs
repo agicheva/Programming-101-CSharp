@@ -15,10 +15,10 @@ namespace SortAndSearchExtentions
             IList<int> sorted = list.SelectionSort(new MyIntComparer());
             int index = sorted.BinarySearch(6, new MyIntComparer());
 
-            //foreach (var item in sorted)
-            //{
-            //    Console.WriteLine(item);
-            //}
+            foreach (var item in sorted)
+            {
+                Console.WriteLine(item);
+            }
 
             Console.WriteLine(index);
         }

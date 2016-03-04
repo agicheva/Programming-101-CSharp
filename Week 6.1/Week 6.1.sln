@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "EventsAndDelegates\Delegates.csproj", "{67FD8FD1-237C-4717-AEDC-55597B284246}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSortWithPredicate", "BubbleSortWithPredicate\BubbleSortWithPredicate.csproj", "{DE49DDE1-5FEC-433E-9CC3-6AD4FC81D400}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67FD8FD1-237C-4717-AEDC-55597B284246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67FD8FD1-237C-4717-AEDC-55597B284246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67FD8FD1-237C-4717-AEDC-55597B284246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67FD8FD1-237C-4717-AEDC-55597B284246}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE49DDE1-5FEC-433E-9CC3-6AD4FC81D400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE49DDE1-5FEC-433E-9CC3-6AD4FC81D400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE49DDE1-5FEC-433E-9CC3-6AD4FC81D400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE49DDE1-5FEC-433E-9CC3-6AD4FC81D400}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
