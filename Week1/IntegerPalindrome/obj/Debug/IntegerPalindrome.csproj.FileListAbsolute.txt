@@ -1,6 +1,0 @@
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\IntegerPalindrome\bin\Debug\IntegerPalindrome.exe.config
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\IntegerPalindrome\bin\Debug\IntegerPalindrome.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\IntegerPalindrome\bin\Debug\IntegerPalindrome.pdb
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\IntegerPalindrome\obj\Debug\IntegerPalindrome.csprojResolveAssemblyReference.cache
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\IntegerPalindrome\obj\Debug\IntegerPalindrome.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\IntegerPalindrome\obj\Debug\IntegerPalindrome.pdb

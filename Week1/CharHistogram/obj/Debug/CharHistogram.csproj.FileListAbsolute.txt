@@ -1,6 +1,0 @@
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\CharHistogram\bin\Debug\CharHistogram.exe.config
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\CharHistogram\bin\Debug\CharHistogram.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\CharHistogram\bin\Debug\CharHistogram.pdb
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\CharHistogram\obj\Debug\CharHistogram.csprojResolveAssemblyReference.cache
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\CharHistogram\obj\Debug\CharHistogram.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\CharHistogram\obj\Debug\CharHistogram.pdb

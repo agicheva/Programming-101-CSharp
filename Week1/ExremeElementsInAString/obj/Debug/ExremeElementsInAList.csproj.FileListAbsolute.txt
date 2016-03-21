@@ -1,6 +1,0 @@
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\ExremeElementsInAString\bin\Debug\ExremeElementsInAString.exe.config
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\ExremeElementsInAString\bin\Debug\ExremeElementsInAString.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\ExremeElementsInAString\bin\Debug\ExremeElementsInAString.pdb
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\ExremeElementsInAString\obj\Debug\ExremeElementsInAString.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\ExremeElementsInAString\obj\Debug\ExremeElementsInAString.pdb
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\ExremeElementsInAString\obj\Debug\ExremeElementsInAList.csprojResolveAssemblyReference.cache

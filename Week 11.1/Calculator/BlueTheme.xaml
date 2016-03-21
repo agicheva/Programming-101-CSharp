@@ -1,0 +1,14 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:Calculator">
+    <Style TargetType="Button">
+        <Setter Property="Background" Value="#2B60DE"/>
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="BorderBrush" Value="White"/>
+    </Style>
+
+    <Style TargetType="TextBox">
+        <Setter Property="Background" Value="#AFDCEC"/>
+        <Setter Property="Foreground" Value="#0000A0"/>
+    </Style>
+</ResourceDictionary>

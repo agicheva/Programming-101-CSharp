@@ -1,6 +1,0 @@
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\CopyEachCharacterKTimes\bin\Debug\CopyEachCharacterKTimes.exe.config
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\CopyEachCharacterKTimes\bin\Debug\CopyEachCharacterKTimes.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\CopyEachCharacterKTimes\bin\Debug\CopyEachCharacterKTimes.pdb
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\CopyEachCharacterKTimes\obj\Debug\CopyEachCharacterKTimes.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\CopyEachCharacterKTimes\obj\Debug\CopyEachCharacterKTimes.pdb
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\CopyEachCharacterKTimes\obj\Debug\CopyEachCharacterKTimes.csprojResolveAssemblyReference.cache

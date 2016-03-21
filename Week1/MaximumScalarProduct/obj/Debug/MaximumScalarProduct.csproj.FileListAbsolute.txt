@@ -1,6 +1,0 @@
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\MaximumScalarProduct\bin\Debug\MaximumScalarProduct.exe.config
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\MaximumScalarProduct\bin\Debug\MaximumScalarProduct.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\MaximumScalarProduct\bin\Debug\MaximumScalarProduct.pdb
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\MaximumScalarProduct\obj\Debug\MaximumScalarProduct.csprojResolveAssemblyReference.cache
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\MaximumScalarProduct\obj\Debug\MaximumScalarProduct.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\MaximumScalarProduct\obj\Debug\MaximumScalarProduct.pdb

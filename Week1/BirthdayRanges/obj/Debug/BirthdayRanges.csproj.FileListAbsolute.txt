@@ -1,6 +1,0 @@
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\BirthdayRanges\bin\Debug\BirthdayRanges.exe.config
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\BirthdayRanges\obj\Debug\BirthdayRanges.csprojResolveAssemblyReference.cache
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\BirthdayRanges\bin\Debug\BirthdayRanges.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\BirthdayRanges\bin\Debug\BirthdayRanges.pdb
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\BirthdayRanges\obj\Debug\BirthdayRanges.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\BirthdayRanges\obj\Debug\BirthdayRanges.pdb

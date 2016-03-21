@@ -1,6 +1,0 @@
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\SumAllNumbersInString\bin\Debug\SumAllNumbersInString.exe.config
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\SumAllNumbersInString\obj\Debug\SumAllNumbersInString.csprojResolveAssemblyReference.cache
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\SumAllNumbersInString\bin\Debug\SumAllNumbersInString.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\SumAllNumbersInString\bin\Debug\SumAllNumbersInString.pdb
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\SumAllNumbersInString\obj\Debug\SumAllNumbersInString.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\SumAllNumbersInString\obj\Debug\SumAllNumbersInString.pdb

@@ -1,6 +1,0 @@
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\NumberToListAndListToNumber\bin\Debug\NumberToListAndListToNumber.exe.config
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\NumberToListAndListToNumber\bin\Debug\NumberToListAndListToNumber.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\NumberToListAndListToNumber\bin\Debug\NumberToListAndListToNumber.pdb
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\NumberToListAndListToNumber\obj\Debug\NumberToListAndListToNumber.csprojResolveAssemblyReference.cache
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\NumberToListAndListToNumber\obj\Debug\NumberToListAndListToNumber.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\NumberToListAndListToNumber\obj\Debug\NumberToListAndListToNumber.pdb

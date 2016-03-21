@@ -1,9 +1,0 @@
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\WorkingWithDigits\bin\Debug\WorkingWithDigits.exe.config
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\WorkingWithDigits\bin\Debug\WorkingWithDigits.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\WorkingWithDigits\bin\Debug\WorkingWithDigits.pdb
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\WorkingWithDigits\obj\Debug\WorkingWithDigits.csprojResolveAssemblyReference.cache
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\WorkingWithDigits\obj\Debug\WorkingWithDigits.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\WorkingWithDigits\obj\Debug\WorkingWithDigits.pdb
-C:\Users\IVAN\Desktop\Programming-101-CSharp\Week1\WorkingWithDigits\bin\Debug\WorkingWithDigits.exe.config
-C:\Users\IVAN\Desktop\Programming-101-CSharp\Week1\WorkingWithDigits\obj\Debug\WorkingWithDigits.exe
-C:\Users\IVAN\Desktop\Programming-101-CSharp\Week1\WorkingWithDigits\obj\Debug\WorkingWithDigits.pdb

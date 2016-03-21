@@ -1,6 +1,0 @@
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\MaxSpan\bin\Debug\MaxSpan.exe.config
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\MaxSpan\bin\Debug\MaxSpan.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\MaxSpan\bin\Debug\MaxSpan.pdb
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\MaxSpan\obj\Debug\MaxSpan.csprojResolveAssemblyReference.cache
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\MaxSpan\obj\Debug\MaxSpan.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\MaxSpan\obj\Debug\MaxSpan.pdb

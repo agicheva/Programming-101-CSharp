@@ -1,6 +1,0 @@
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\Anagram\bin\Debug\Anagram.exe.config
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\Anagram\obj\Debug\Anagram.csprojResolveAssemblyReference.cache
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\Anagram\bin\Debug\Anagram.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\Anagram\bin\Debug\Anagram.pdb
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\Anagram\obj\Debug\Anagram.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\Anagram\obj\Debug\Anagram.pdb

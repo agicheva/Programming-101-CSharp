@@ -1,6 +1,0 @@
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\Transversal\bin\Debug\Transversal.exe.config
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\Transversal\bin\Debug\Transversal.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\Transversal\bin\Debug\Transversal.pdb
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\Transversal\obj\Debug\Transversal.csprojResolveAssemblyReference.cache
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\Transversal\obj\Debug\Transversal.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\Transversal\obj\Debug\Transversal.pdb

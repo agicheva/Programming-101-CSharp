@@ -1,8 +1,0 @@
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\Factorial\bin\Debug\Factorial.exe.config
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\Factorial\bin\Debug\Factorial.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\Factorial\bin\Debug\Factorial.pdb
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\Factorial\obj\Debug\Factorial.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\Factorial\obj\Debug\Factorial.pdb
-C:\Users\IVAN\Desktop\Programming-101-CSharp\Week1\Factorial\bin\Debug\Factorial.exe.config
-C:\Users\IVAN\Desktop\Programming-101-CSharp\Week1\Factorial\obj\Debug\Factorial.exe
-C:\Users\IVAN\Desktop\Programming-101-CSharp\Week1\Factorial\obj\Debug\Factorial.pdb

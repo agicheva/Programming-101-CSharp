@@ -1,6 +1,0 @@
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\ReverseEachWordInASentence\bin\Debug\ReverseEachWordInASentence.exe.config
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\ReverseEachWordInASentence\bin\Debug\ReverseEachWordInASentence.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\ReverseEachWordInASentence\bin\Debug\ReverseEachWordInASentence.pdb
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\ReverseEachWordInASentence\obj\Debug\ReverseEachWordInASentence.csprojResolveAssemblyReference.cache
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\ReverseEachWordInASentence\obj\Debug\ReverseEachWordInASentence.exe
-C:\Users\IVAN\Desktop\HackBulgaria 101 C#\Week1\ReverseEachWordInASentence\obj\Debug\ReverseEachWordInASentence.pdb
